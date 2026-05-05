@@ -48,6 +48,16 @@ Battery Analysis/
 - Efficiency varies over time
 - Some abnormal cycles were detected
 
+## Summary of Insights
+- Data is not perfect for every day. Some days have missing records, and some days have extra data.
+- The battery stays idle for a large amount of time, which means it is not always in use.
+- Charging usually takes more time compared to discharging.
+- Battery efficiency is not constant. It changes over different days.
+- Some cycles take unusually long time, which may indicate missing data or abnormal behavior.
+- There are certain days where charging is very high, showing heavy battery usage.
+- Based on availability and efficiency, days can be classified into low data, normal usage, and good usage.
+- Overall, the analysis shows how the battery is used, how efficient it is, and where problems may exist in the data.
+
 ## Deliverables
 - Cleaned dataset (CSV)
 - Processed dataset for analysis
