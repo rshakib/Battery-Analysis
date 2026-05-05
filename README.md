@@ -11,6 +11,7 @@ The goal is to clean the dataset and extract useful insights related to:
 
 ## Project Structure
 
+```
 Battery Analysis/
 │
 ├── data/
@@ -28,6 +29,7 @@ Battery Analysis/
 │
 ├── README.md
 ├── .gitignore
+```
 
 ## Key Analysis Performed
 - Daily data availability check
